@@ -1,0 +1,184 @@
+script,comment,inflection,type,voice
+1001,1,m,,male
+1002,2,m,,male
+1003,3,m,,male
+1004,4,m,,male
+1005,5,m,,male
+1006,6,m,,male
+1007,7,m,,male
+1008,8,m,,male
+1009,9,m,,male
+1010,10,m,,male
+1011,11,m,,male
+1012,12,m,,male
+1013,13,m,,male
+1014,14,m,,male
+1015,15,m,,male
+1016,16,m,,male
+1017,17,m,,male
+1018,18,m,,male
+1019,19,m,,male
+1020,20,m,,male
+1021,21,m,,male
+1022,22,m,,male
+1023,23,m,,male
+1024,24,m,,male
+1025,25,m,,male
+1026,26,m,,male
+1027,27,m,,male
+1028,28,m,,male
+1029,29,m,,male
+1030,30,m,,male
+1031,31,m,,male
+1032,32,m,,male
+1033,33,m,,male
+1034,34,m,,male
+1035,35,m,,male
+1036,36,m,,male
+1037,37,m,,male
+1038,38,m,,male
+1039,39,m,,male
+1040,40,m,,male
+1041,41,m,,male
+1042,42,m,,male
+1043,43,m,,male
+1044,44,m,,male
+1045,45,m,,male
+1046,46,m,,male
+1047,47,m,,male
+1048,48,m,,male
+1049,49,m,,male
+1050,50,m,,male
+1051,51,m,,male
+1052,52,m,,male
+1053,53,m,,male
+1054,54,m,,male
+1055,55,m,,male
+1056,56,m,,male
+1057,57,m,,male
+1058,58,m,,male
+1059,59,m,,male
+1071,this is coach x,e,,male
+1072,this is coach u,e,,male
+1073,this is coach a ,e,,male
+1074,this is coach b,e,,male
+1075,this is coach c,e,,male
+1076,this is coach d,e,,male
+1077,this is coach e,e,,male
+1078,this is coach f,e,,male 
+1079,this is coach g,e,,male 
+1080,this is coach H,e,,male
+1081,this is coach j,e,,male
+1082,this is coach k,e,,male
+1084,don't forget to lock the door,e,toilet,female
+1085,sorry this toilet is out of service,e,toilet ,female
+1086,the door is locked ,e,toilet,female
+1087,the door is now unlocked,e,toilet ,female
+1088,this toilet is occupied ,e,toilet,female 
+1089,staff announcement could the conductor please contact the driver,e,,female
+1090,staff announcement the passenger alarm has been activated can the conductor please answer the call,e,,female 
+       1090a,staff announcement the passenger alarm has been activated,m,,female
+1090coachA,staff announcement the passenger alarm has been  activated please could a member of staff attend coach a,e,,female and male
+1091,this door is not in use please move to another door to leave the train,e,door,female
+1092,the doors in this carrage will not open at this station please move to another door to leave the train,e,short platform,male 
+1093,the doors in this carrage will not open at this station please move forward to,m,short platform,male 
+1094,the doors in this carrage will not open at this station please move back to,m,short platform,male
+1095,the doors at the front of this carrage will not open at this station,e,short platform,male
+1096,the doors at the rear of this carrage will not open at this station,e,short platform,male
+1097,the doors in this carrage will not open at the next station please move to another door to leave the train,e,short platform,male 
+1098,please use the the doors on the left in the direction of travel to leave the train,e,door,male 
+1099,please use the the doors on the right in the direction of travel to leave the train,e,door,male 
+1100,this door is not in use please move back to another door to leave the train,e,door,female
+1101,this door is not in use please move forward to another door to leave the train,e,door,female
+1201,coach a,m,,male 
+1202,coach b,m,,male
+1203,coach c,m,,male 
+1204,coach d,m,,male
+1205,coach e,m,,male 
+1206,coach f,m,,male
+1207,coach g,m,,male
+1208,coach h,m,,male
+1209,coach j,m,,male
+1210,coach k,m,,male
+1211,coach x,m,,male
+1212,coach u,m,,male
+1220,the doors at the front of this carrage will not open at the next station,m,,male
+1221,the doors at the rear of this carrage will not open at the next station,m,,male 
+1222,please use the doors on the left to leave the train,e,,male
+1223,please use the doors on the right to leave the train ,e,,male
+2001,adlington ,e,,male 
+2002,adlington ,m,,male
+2003,althorpe,e,,male 
+2004,althorpe,m,,male
+2005,alfreton ,e,,male
+2006,alfreton,m,,male
+2007,ashton-under-lime,e,,male
+2008,ashton-under-lime,m,,male
+2009,bamford,e,,male
+2010,barnetby,e,,male
+2011,barnetby,m,,male
+2012,barnsley,e,,male 
+2013,barnsley,m,,male
+2014,barrow-in-furness,e,,male
+2015,barrow-in-furness,m,,male
+2016,barton-on-humber,e,,male
+2017,barton-on-humber,m,,male
+2018,batley,e,,male
+2019,batley,m,,male
+2020,berwick-apon-tweed,e,,male
+2021,berwick-apon-tweed,m,,male
+2022,beverly ,e,,male
+2023,beverly,m,,male 
+2024,birchwood,e,,male
+2025,birchwood,m,,male
+2026,blackburn,e,,male
+2027,blackpool,e,,male
+2030,blackrod,e,,male
+2031,blackrod,m,,male
+2032,bolton,e,,male 
+2033,bolton,m,,male
+2034,bradford,e,,male
+2035,bradford interchange,e,,male
+2036,bradford interchange,m,,male
+2037,brighouse,e,,male
+2038,brighouse,m,,male
+2039,broad green,e,,male
+2040,broad green,m,,male
+2041,broomfleet,e,,male
+2042,broomfleet,m,,male
+2043,brough,e,,male
+2044,brough,m,,male
+2045,buckshaw parkway,e,,male 
+2046,buckshaw parkway,m,,male
+2047,burnage,e,,male
+2048,burnage,m,,male
+2049,burneside,e,,male
+2050,burneside,m,,male
+2051,burnley,e,,male
+2052,burnley,m,,male
+2053,carlisle,e,,male
+2054,carlisle,m,,male
+2055,carstairs,e,,male
+2056,carstairs ,m,,male
+2057,castleton,e,,male
+2058,castleton,m,,male
+2059,chester-le-street,e,,male
+2060,chester-le-street,m,,male
+2061,chesterfield,e,,male
+2062,chesterfield ,m,,male
+2063,chinley,e,,male 
+2064,chinley,m,,male
+2065,chorley,e,,male
+2066,chorley,m,,male
+2067,church fenton,e,,male
+2068,church fenton,m,,male
+2069,cleethorpes,e,,male
+2070,cleethorpes,m,,male 
+2071,colne,e,,male
+2073,conisbrough,e,,male
+2074,conisbrough,m,,male
+2075,cottingley,e,,male 
+2076,cottintley,m,,male 
+2077,crewe,e,,male
+2078,crewe,m,,male
+2079,crossgates,e,,male
